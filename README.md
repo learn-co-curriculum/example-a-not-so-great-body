@@ -9,4 +9,4 @@ Below is the main body of a Readme that explains the MVC (Model-View-Controller)
 ### Why doesn’t this work? 
 
 We can assume that at this point in the curriculum, this material isn't overly technical for students. But it is pretty dry, not very engaging, and could be too abstract of a concept. Using a metaphor or a real-world analogy would help make it more clear. In the next lesson, let's see the reworked version. 
-<a href='https://learn.co/lessons/example-a-not-so-great-body' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/example-a-not-so-great-body' title='Below is the main body of a Readme that explains the MVC (Model-View-Controller) Framework. '>Below is the main body of a Readme that explains the MVC (Model-View-Controller) Framework. </a> on Learn.co and start learning to code for free.</p>
