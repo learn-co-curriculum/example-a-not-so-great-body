@@ -6,7 +6,10 @@ Below is the main body of a Readme that explains the MVC (Model-View-Controller)
 
 **The controller receives user input and makes calls to the model and view to update/modify either. This keeps the main aspects of our application separate.**
 
-### Why doesn’t this work? 
+---
+
+###Why Doesn't This Work? 
 
 We can assume that at this point in the curriculum, this material isn't overly technical for students. But it is pretty dry, not very engaging, and could be too abstract of a concept. Using a metaphor or a real-world analogy would help make it more clear. In the next lesson, let's see the reworked version. 
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/example-a-not-so-great-body' title='Below is the main body of a Readme that explains the MVC (Model-View-Controller) Framework. '>Below is the main body of a Readme that explains the MVC (Model-View-Controller) Framework. </a> on Learn.co and start learning to code for free.</p>
